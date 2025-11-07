@@ -1,0 +1,15 @@
+{
+  "name": "My Movie Extension",
+  "description": "This extension gives access to movie information and trailers",
+  "version": "1.0.0",
+  "language": "en",
+  "sources": [
+    {
+      "name": "MoviesDrive",
+      "url": "https://moviesdrive.lat/",
+      "type": "movies",
+      "icon": "https://moviesdrive.lat/favicon.ico"
+      "description": "Official movie database with trailers, ratings and reviews."
+    }
+  ]
+}

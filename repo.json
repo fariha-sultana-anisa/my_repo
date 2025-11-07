@@ -11,5 +11,12 @@
       "icon": "https://moviesdrive.lat/favicon.ico"
       "description": "Official movie database with trailers, ratings and reviews."
     }
+    {
+      "name": "Moonflix",
+      "url": "https://moonflix.in/browse",
+      "type": "movies",
+      "icon": "https://moonflix.in/browse/favicon.ico"
+      "description": "Official movie database with trailers, ratings and reviews."
+    }
   ]
 }
